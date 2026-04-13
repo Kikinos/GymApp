@@ -10,7 +10,7 @@ Jedná se o mobilní fitness aplikaci, která uživatelům umožňuje efektivně
 
 * **Vlastní rutiny:** Uživatelé si mohou vytvářet a pojmenovávat vlastní skupiny cviků (např. "Leg day", "Full body").
 * **Spouštění tréninků:** Připravenou rutinu lze kdykoliv spustit a postupně si odškrtávat odcvičené série a opakování.
-* **Historie s pokrok:** Historie tréninků a sledování osobních rekordů.
+* **Historie:** Historie tréninků a sledování osobních rekordů.
 * **Stopky:** Vestavěné stopky pro měření pauzy mezi sériemi.
 * **Katalog:** Katalog cviků s ukázkami nebo popisem.
 
